@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" width="50" height="50">
+  <defs>
+    <linearGradient id="A0mt570bAeGBGaTEr71C5b" x1="11.5" x2="11.5" y1="7" y2="41" gradientTransform="matrix(1.03 0 0 1 12.152 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3fc0f8" />
+      <stop offset="1" stop-color="#005cb3" />
+    </linearGradient>
+    <linearGradient id="A0mt570bAeGBGaTEr71C5a" x1="-5" x2="28" y1="24" y2="24" gradientTransform="matrix(1.03 0 0 1 12.152 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5cbfe6" stop-opacity="0" />
+      <stop offset=".433" stop-color="#5bbde4" stop-opacity=".015" />
+      <stop offset=".589" stop-color="#55b6de" stop-opacity=".072" />
+      <stop offset=".7" stop-color="#4cabd4" stop-opacity=".169" />
+      <stop offset=".79" stop-color="#409ac4" stop-opacity=".309" />
+      <stop offset=".867" stop-color="#2f84b1" stop-opacity=".491" />
+      <stop offset=".934" stop-color="#1b6a99" stop-opacity=".711" />
+      <stop offset=".994" stop-color="#034b7c" stop-opacity=".97" />
+      <stop offset="1" stop-color="#004779" />
+    </linearGradient>
+    <linearGradient id="A0mt570bAeGBGaTEr71C5c" x1="-1589" x2="-1556" y1="-656" y2="-656" gradientTransform="matrix(1.03 0 0 1 1644.152 680)" xlink:href="#A0mt570bAeGBGaTEr71C5a" />
+    <linearGradient id="A0mt570bAeGBGaTEr71C5d" x1="-929" x2="-896" y1="-2288" y2="-2288" gradientTransform="matrix(1.03 0 0 1 964.152 2312)" xlink:href="#A0mt570bAeGBGaTEr71C5a" />
+    <linearGradient id="A0mt570bAeGBGaTEr71C5e" x1="655" x2="688" y1="-1608" y2="-1608" gradientTransform="matrix(1.03 0 0 1 -667.848 1632)" xlink:href="#A0mt570bAeGBGaTEr71C5a" />
+    <linearGradient id="A0mt570bAeGBGaTEr71C5f" x1="24" x2="24" y1="15.96" y2="32.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" />
+      <stop offset=".325" stop-color="#fbfbfc" />
+      <stop offset=".662" stop-color="#eeeef4" />
+      <stop offset="1" stop-color="#dadae6" />
+    </linearGradient>
+  </defs>
+  <g data-name="buttons">
+    <rect width="34" height="34" x="7" y="7" fill="url(#A0mt570bAeGBGaTEr71C5b)" rx="3" />
+    <g opacity=".5">
+      <rect width="34" height="34" x="7" y="7" fill="url(#A0mt570bAeGBGaTEr71C5a)" rx="3" />
+      <rect width="34" height="34" x="7" y="7" fill="url(#A0mt570bAeGBGaTEr71C5c)" rx="3" transform="rotate(-90 24 24)" />
+      <rect width="34" height="34" x="7" y="7" fill="url(#A0mt570bAeGBGaTEr71C5d)" rx="3" transform="rotate(180 24 24)" />
+      <rect width="34" height="34" x="7" y="7" fill="url(#A0mt570bAeGBGaTEr71C5e)" rx="3" transform="rotate(90 24 24)" />
+    </g>
+    <path fill="url(#A0mt570bAeGBGaTEr71C5f)" d="M21.95,16.19H20.22a1,1,0,0,0-1,1v8.73l-5.2-9.23a.992.992,0,0,0-.87-.5H11a1,1,0,0,0-1,1V30.83a1,1,0,0,0,1,1h1.74a1,1,0,0,0,1-1V22.09l5.2,9.23a1.013,1.013,0,0,0,.87.51h2.14a1,1,0,0,0,1-1V17.19A1,1,0,0,0,21.95,16.19ZM37,23.47H32.67a1,1,0,0,0-1,1v.59a1,1,0,0,0,1,1h1.59v2.42a3.1,3.1,0,0,1-2.17.66,2.788,2.788,0,0,1-2.5-1.18,6.375,6.375,0,0,1-.79-3.51V23.5A5.517,5.517,0,0,1,30,19.533a2.6,2.6,0,0,1,2.036-.664,2.516,2.516,0,0,1,1.522.551,2.189,2.189,0,0,1,.595.9A1.015,1.015,0,0,0,35.1,21h1.621a.993.993,0,0,0,.969-1.255A4.979,4.979,0,0,0,36.12,17.3a6.844,6.844,0,0,0-4.5-1.34,6.467,6.467,0,0,0-3.48.93,6.014,6.014,0,0,0-2.32,2.65,9.427,9.427,0,0,0-.81,4.04l.01,1.35a7.688,7.688,0,0,0,1.95,5.23,6.478,6.478,0,0,0,4.87,1.88,10.9,10.9,0,0,0,3.64-.59A6.494,6.494,0,0,0,37.7,30.2a.98.98,0,0,0,.3-.732v-5A1,1,0,0,0,37,23.47Z" />
+  </g>
+</svg>
